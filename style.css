@@ -1,0 +1,17 @@
+.header{
+background-color: red;
+min-height: 90px;
+}
+
+.container{}
+.blog{
+background-color: blue;
+min-height: 100px;
+width: 60%
+}
+.contact{
+	background-color: green;
+min-height: 100px;
+width: 25%
+}
+}
